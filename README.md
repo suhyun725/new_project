@@ -1,6 +1,6 @@
 # 📚 Back to School — Relearning the Basics
 
-A personal space to record what I'm relearning after returning to university.
+A personal space to study
 
 ## Currently Studying
 - Python basics
