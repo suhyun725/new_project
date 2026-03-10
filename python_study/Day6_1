@@ -1,0 +1,13 @@
+def calc(a,b):
+    return a + b, a - b, a * b, a / b
+
+
+num_1 = int(input("첫번째 숫자: "))
+num_2 = int(input("두번째 숫자: "))
+
+add, sub, mul, div = calc(num_1, num_2)
+
+print(f"{num_1} + {num_2} = {add}")
+print(f"{num_1} - {num_2} = {sub}")
+print(f"{num_1} * {num_2} = {mul}")
+print(f"{num_1} / {num_2} = {div:.2f}")
